@@ -1,6 +1,6 @@
 # Report for Image Filter Project
 
-Author: [杨璧菲](thss15_yangbf@163.com) 软件51 2015013217
+Author: ...
 
 ## 实验目标
 
